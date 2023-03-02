@@ -1,0 +1,68 @@
+[
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "EstNV2": 0.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "DPTO. ASEGURAMIENTO DE LA CALIDAD                                               ",
+        "EstNV2": 1.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN                                             ",
+        "EstNV2": 1.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "GRUPO DE INSPECCIÓN DE LA CALIDAD                                               ",
+        "EstNV2": 1.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "GRUPO DE LIBERACIÓN DE LOTES                                                    ",
+        "EstNV2": 1.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "GRUPO DE MEJORAMIENTO DE LA CALIDAD                                             ",
+        "EstNV2": 1.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "DPTO DE ASUNTOS REGULATORIOS Y REGISTROS MED                                    ",
+        "EstNV2": 41.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "DPTO. CONTROL DE LA CALIDAD                                                     ",
+        "EstNV2": 292.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "GRUPO DE CONTROL DE LA CALIDAD                                                  ",
+        "EstNV2": 292.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "LABORATORIO DE MICROBIOLOGÍA                                                    ",
+        "EstNV2": 292.0
+      },
+      {
+        "EstNV1": 51.0,
+        "Unidad": "DIRECCION DE GESTION DE LA CALIDAD                                              ",
+        "Area": "LABORATORIO FÍSICO - QUÍMICO                                                    ",
+        "EstNV2": 292.0
+      }
+]
