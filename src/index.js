@@ -10,6 +10,6 @@ app.use(express.json());
 
 app.use(routes);
 
-app.listen(4000,() =>{
+app.listen(4000, () => {
     console.log(`Server on port ${4000}`);
 });
