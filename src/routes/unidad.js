@@ -2,7 +2,7 @@ const { Router } = require('express');
 const router = new Router();
 const _ = require('underscore');
 
-const ueb = require('../unidad.json');
+const ueb = require('../jsons/unidad.json');
 
 router.get('/', (req, res) => {
     res.json(ueb);
