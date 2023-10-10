@@ -1,10 +1,9 @@
 [
-    {
-      "id": "1",
-      "name": "Entrevista en direccion",
-      "type":"Entrevista",
-      "dateTime": "23-12-2022",
-      "objetivos":"Análisis del proceso de gestion de procesos en el Dpto de Direccion General"
-    }
-
+  {
+    "id": "1",
+    "name": "Entrevista en direccion",
+    "type": "Entrevista",
+    "dateTime": "23-12-2022",
+    "objetivos": "Análisis del proceso de gestion de procesos en el Dpto de Direccion General"
+  }
 ]

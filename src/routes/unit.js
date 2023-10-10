@@ -1,11 +1,11 @@
-const { Router } = require('express');
+const { Router } = require("express");
 const router = new Router();
-const _ = require('underscore');
+const _ = require("underscore");
 
-const unit = require('../jsons/unidad.json');
+const unit = require("../jsons/unidad.json");
 
-router.get('/', (req, res) => {
-    res.json(unit);
+router.get("/", (req, res) => {
+  res.json(unit);
 });
 
 module.exports = router;
