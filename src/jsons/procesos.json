@@ -2,76 +2,91 @@
   {
     "id": "4d819a8b-3a18-46b6-8843-6e7a5bfd10f3",
     "label": "Gestión del Capital humano",
-    "name": "07"
+    "name": "07",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "c1c28940-d431-4c05-89be-421927fb4945",
     "label": "Gestión de Información y comunicación",
-    "name": "03"
+    "name": "03",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "9f1b2038-9ae4-46da-9f74-54e5dc441fe9",
     "label": "Gestión de la Dirección",
-    "name": "01"
+    "name": "01",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "3c255e1b-6760-4ce6-aad0-d2b5c9f0bd55",
     "label": "Gestión de Diseño, desarrollo e investigación",
-    "name": "02"
+    "name": "02",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "8374b293-7286-4437-9262-2b8aee77e02b",
     "label": "Gestión de Inversiones",
-    "name": "14"
+    "name": "14",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "38b9a3be-31e7-4e97-b9f6-c3786160c5e0",
     "label": "Gestión de Logística",
-    "name": "04"
+    "name": "04",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "dc0d1608-9402-46e9-b97c-d973a2a30739",
     "label": "Gestión de la Producción",
-    "name": "05"
+    "name": "05",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "44eaafa6-660f-433b-a765-3789e1ceb62c",
     "label": "Gestión de Liberación de lotes",
-    "name": "06"
+    "name": "06",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "35a82278-a541-444f-a33f-f80cd0ba2718",
     "label": "Gestión de Comercial y de negocios",
-    "name": "10"
+    "name": "10",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "565d1dfe-9936-4df1-be66-577d4fd29779",
     "label": "Gestión Contable-financiera",
-    "name": "08"
+    "name": "08",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "45a6d35e-54e5-4cd0-ac6d-f408949cff5f",
     "label": "Gestión de Servicios generales",
-    "name": "09"
+    "name": "09",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "3e04d093-0902-4e94-99f8-85aa2225c66f",
     "label": "Gestión de Ingeniería y mantenimiento",
-    "name": "11"
+    "name": "11",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "9218be3b-fb42-421a-be07-da62d1e1237f",
     "label": "Gestión de Documentación",
-    "name": "12"
+    "name": "12",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "e8cc6116-be2a-445d-be1d-6e7ad73f2b0d",
     "label": "Gestión de Medición, análisis y mejora",
-    "name": "13"
+    "name": "13",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   },
   {
     "id": "44044365-956a-4e81-8f06-24f39d320482",
     "label": "Gestión TIC",
-    "name": "15"
+    "name": "15",
+    "Area": "GRUPO DE ESTRATEGIA Y DOCUMENTACIÓN"
   }
 ]

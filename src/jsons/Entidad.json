@@ -5,5 +5,12 @@
     "nombreLargo": "Empresa Laboratorios AICA",
     "tipo": "EMPRESA",
     "id": 1
+  },
+  {
+    "nombre": "Test",
+    "Descripcion": "Laboratorio que desarrolla ....",
+    "nombreLargo": "Empresa Laboratorios AICA",
+    "tipo": "EMPRESA",
+    "id": 1
   }
 ]
