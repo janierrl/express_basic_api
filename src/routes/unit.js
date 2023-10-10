@@ -2,10 +2,10 @@ const { Router } = require('express');
 const router = new Router();
 const _ = require('underscore');
 
-const ueb = require('../jsons/procesos.json');
+const unit = require('../jsons/unidad.json');
 
 router.get('/', (req, res) => {
-    res.json(ueb);
+    res.json(unit);
 });
 
 module.exports = router;
